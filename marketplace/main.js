@@ -1,22 +1,26 @@
-const alvo = document.getElementById("linhaProdutos");
-
-const btnEsquerda = document.querySelector(".esquerda");
-const btnDireita = document.querySelector(".direita");
+// variaveis linhas produtos 
+const linhasProdutos = document.querySelectorAll(".linhaProdutos");
+const btnEsquerda = document.querySelectorAll(".seta.esquerda");
+const btnDireita = document.querySelectorAll(".seta.direita");
 
 const scrollPorClique = 250;
 
-btnDireita.addEventListener("click", () => {
-  alvo.scrollBy({
-    left: scrollPorClique,
-    behavior: "smooth",
+// Navegação à direita
+btnDireita.forEach((btn, index) => {
+  btn.addEventListener("click", () => {
+    linhasProdutos[index].scrollBy({
+      left: scrollPorClique,
+      behavior: "smooth",
+    });
   });
 });
 
-btnEsquerda.addEventListener("click", () => {
-  alvo.scrollBy({
-    left: scrollPorClique - scrollPorClique * 2,
-    behavior: "smooth",
+// Navegação à esquerda
+btnEsquerda.forEach((btn, index) => {
+  btn.addEventListener("click", () => {
+    linhasProdutos[index].scrollBy({
+      left: -scrollPorClique,
+      behavior: "smooth",
+    });
   });
 });
-
-

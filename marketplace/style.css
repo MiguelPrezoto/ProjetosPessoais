@@ -221,3 +221,85 @@ footer {
 .direita {
   right: 10px;
 }
+
+/* Modal (popup) */
+.popup {
+  display: none; /* Inicialmente escondido */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(153, 212, 223, 0.35);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Conteúdo do popup */
+.conteudoPopUp {
+  background-color: #fff;
+  border: 1px solid rgb(153, 212, 223);
+  border-radius: 12px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 400px;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  padding: 0 20px 20px;
+}
+
+.conteudoPopUp h2 {
+  background-color: #99d4df;
+  color: #fff;
+  margin: 0 -20px 16px;
+  padding: 14px 20px;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+
+/* Botão para fechar o popup */
+.btnFecharPopUp {
+  font-size: 30px;
+  color: #fff;
+  position: absolute;
+  top: 4px;
+  right: 12px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+/* Estilizando os campos de input e botão */
+.conteudoPopUp input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid rgb(153, 212, 223);
+  border-radius: 8px;
+  box-shadow: 0 0.3px 0.3px rgba(0, 0, 0, 0.05);
+  color: #000;
+}
+
+.conteudoPopUp button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #99d4df;
+  color: #fff;
+  border: 1px solid rgb(153, 212, 223);
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+.conteudoPopUp button:hover {
+  background-color: #7dc5d2;
+}
+
+@media (max-width: 600px) {
+    .conteudoPopUp {
+        width: 90%;
+      }
+}

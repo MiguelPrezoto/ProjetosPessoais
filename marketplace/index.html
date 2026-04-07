@@ -18,7 +18,7 @@
         <input type="text" placeholder="Procure o necessário aqui..." id="barraPesquisa">
         <nav>
             <ul>
-                <li><a href="#"><img src="assets/iconeCarrinho.svg" class="icon"></a></li>
+                <li><a href="#"><img src="assets/iconeCarrinho.svg" class="icon" id="iconCarrinho"></a></li>
                 <li><a href="#"><img src="assets/iconeUsuario.svg" class="icon" id="iconUser"></a></li>
             </ul>
         </nav>
@@ -26,13 +26,25 @@
 
     <div id="loginPopUp" class="popup">
         <div class="conteudoPopUp">
-            <span class="btnFecharPopUp" id="fecharPopUp">&times;</span>
+            <span class="btnFecharPopUp" id="fecharPopUpLogin">&times;</span>
             <h2>faça seu login</h2>
             <form>
                 <input type="text" placeholder="Digite seu nome de usuário" id="username" required>
                 <input type="password" placeholder="Digite sua senha" id="password" required>
                 <button type="submit">Entrar</button>
             </form>
+        </div>
+    </div>
+
+    <div id="carrinhoPopUp" class="popup">
+        <div class="conteudoPopUp">
+            <span class="btnFecharPopUp" id="fecharPopUpCarrinho">&times;</span>
+            <h2>Carrinho de Compras</h2>
+            <div class="centerCarrinho">
+               <img src="assets/iconeCarrinho.svg" class="carrinhoTela" id="iconCarrinho">
+               <p>Ops... Parece que seu carrinho está vazio!</p>
+               <p>Tente adicionar algo que está em oferta!</p>
+            </div>
         </div>
     </div>
 

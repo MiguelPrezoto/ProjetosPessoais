@@ -8,7 +8,12 @@ const scrollPorClique = 250;
 //popup login
 const iconUsuario = document.getElementById('iconUser');
 const loginPopup = document.getElementById('loginPopUp');
-const fecharPopUp = document.getElementById('fecharPopUp');
+const fecharPopUpLogin = document.getElementById('fecharPopUpLogin');
+
+//popup carrinho
+const iconCarrinho = document.getElementById('iconCarrinho');
+const carrinhoPopUp = document.getElementById('carrinhoPopUp');
+const fecharPopUpCarrinho = document.getElementById('fecharPopUpCarrinho');
 
 // nav direita
 btnDireita.forEach((btn, index) => {
@@ -32,19 +37,31 @@ btnEsquerda.forEach((btn, index) => {
 
 
 
-// abrir popup
+//abrir popup login
 iconUsuario.addEventListener('click', () => {
-    loginPopup.style.display = 'flex'; // Exibe o popup
+    loginPopup.style.display = 'flex';
 });
 
-// fechar popup
-fecharPopUp.addEventListener('click', () => {
-    loginPopup.style.display = 'none'; // Esconde o popup
+//fechar popup login
+fecharPopUpLogin.addEventListener('click', () => {
+    loginPopup.style.display = 'none';
+    carrinhoPopUp.style.display = 'none';
 });
 
-// Fechar o popup se o usuário clicar fora da caixa de conteúdo
+//fechar o popup se o usuário clicar fora da div de conteúdo
 window.addEventListener('click', (event) => {
-    if (event.target === loginPopup) {
-        loginPopup.style.display = 'none'; // Esconde o popup se clicar fora dele
+    if (event.target === loginPopup || event.target === carrinhoPopUp) {
+        loginPopup.style.display = 'none';
+        carrinhoPopUp.style.display = 'none';
     }
+});
+
+//abrri popup carrinho
+iconCarrinho.addEventListener('click', () => {
+  carrinhoPopUp.style.display = 'flex';
+});
+
+fecharPopUpCarrinho.addEventListener('click', () => {
+    loginPopup.style.display = 'none';
+    carrinhoPopUp.style.display = 'none';
 });

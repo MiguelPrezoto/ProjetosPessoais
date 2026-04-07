@@ -303,3 +303,11 @@ footer {
         width: 90%;
       }
 }
+
+.carrinhoTela {
+  flex: 0 0 auto;
+  height: 2.5rem;
+  margin-bottom: 20%;
+  margin-top: 20%;
+  object-fit: cover;
+}

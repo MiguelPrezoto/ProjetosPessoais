@@ -222,7 +222,6 @@ footer {
   right: 10px;
 }
 
-/* Modal (popup) */
 .popup {
   display: none; /* Inicialmente escondido */
   position: fixed;
@@ -236,7 +235,6 @@ footer {
   z-index: 1000;
 }
 
-/* Conteúdo do popup */
 .conteudoPopUp {
   background-color: #fff;
   border: 1px solid rgb(153, 212, 223);
@@ -259,7 +257,6 @@ footer {
   text-transform: capitalize;
 }
 
-/* Botão para fechar o popup */
 .btnFecharPopUp {
   font-size: 30px;
   color: #fff;
@@ -270,7 +267,6 @@ footer {
   line-height: 1;
 }
 
-/* Estilizando os campos de input e botão */
 .conteudoPopUp input {
   width: 100%;
   padding: 10px;

@@ -1,0 +1,14 @@
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\bin\Debug\net10.0\Ex1Ex6.exe
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\bin\Debug\net10.0\Ex1Ex6.deps.json
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\bin\Debug\net10.0\Ex1Ex6.runtimeconfig.json
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\bin\Debug\net10.0\Ex1Ex6.dll
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\bin\Debug\net10.0\Ex1Ex6.pdb
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\Ex1Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\Ex1Ex6.AssemblyInfoInputs.cache
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\Ex1Ex6.AssemblyInfo.cs
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\Ex1Ex6.csproj.CoreCompileInputs.cache
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\Ex1Ex6.dll
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\refint\Ex1Ex6.dll
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\Ex1Ex6.pdb
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\Ex1Ex6.genruntimeconfig.cache
+C:\temp\projetosCSharp\Ex1Ex6\Ex1Ex6\obj\Debug\net10.0\ref\Ex1Ex6.dll

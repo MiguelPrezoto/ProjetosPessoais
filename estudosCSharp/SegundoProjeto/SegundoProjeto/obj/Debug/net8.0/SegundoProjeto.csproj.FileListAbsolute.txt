@@ -1,0 +1,14 @@
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+C:\temp\projetosCSharp\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll

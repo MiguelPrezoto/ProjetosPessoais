@@ -1,0 +1,14 @@
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\bin\Debug\net10.0\EntradaDeDadosPt2.exe
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\bin\Debug\net10.0\EntradaDeDadosPt2.deps.json
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\bin\Debug\net10.0\EntradaDeDadosPt2.runtimeconfig.json
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\bin\Debug\net10.0\EntradaDeDadosPt2.dll
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\bin\Debug\net10.0\EntradaDeDadosPt2.pdb
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\EntradaDeDadosPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\EntradaDeDadosPt2.AssemblyInfoInputs.cache
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\EntradaDeDadosPt2.AssemblyInfo.cs
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\EntradaDeDadosPt2.csproj.CoreCompileInputs.cache
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\EntradaDeDadosPt2.dll
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\refint\EntradaDeDadosPt2.dll
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\EntradaDeDadosPt2.pdb
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\EntradaDeDadosPt2.genruntimeconfig.cache
+C:\temp\projetosCSharp\EntradaDeDadosPt2\EntradaDeDadosPt2\obj\Debug\net10.0\ref\EntradaDeDadosPt2.dll

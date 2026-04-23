@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExDeFixacao/1.0.0": {
+        "runtime": {
+          "ExDeFixacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExDeFixacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

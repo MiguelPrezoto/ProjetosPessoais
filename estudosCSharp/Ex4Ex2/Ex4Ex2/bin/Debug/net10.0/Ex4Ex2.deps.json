@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ex4Ex2/1.0.0": {
+        "runtime": {
+          "Ex4Ex2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex4Ex2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

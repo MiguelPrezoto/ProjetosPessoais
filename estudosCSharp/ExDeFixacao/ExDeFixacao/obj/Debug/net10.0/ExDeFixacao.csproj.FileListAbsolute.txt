@@ -1,0 +1,14 @@
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ExDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ExDeFixacao.AssemblyInfoInputs.cache
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ExDeFixacao.AssemblyInfo.cs
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ExDeFixacao.csproj.CoreCompileInputs.cache
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\bin\Debug\net10.0\ExDeFixacao.exe
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\bin\Debug\net10.0\ExDeFixacao.deps.json
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\bin\Debug\net10.0\ExDeFixacao.runtimeconfig.json
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\bin\Debug\net10.0\ExDeFixacao.dll
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\bin\Debug\net10.0\ExDeFixacao.pdb
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ExDeFixacao.dll
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\refint\ExDeFixacao.dll
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ExDeFixacao.pdb
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ExDeFixacao.genruntimeconfig.cache
+C:\temp\projetosCSharp\ExDeFixacao\ExDeFixacao\obj\Debug\net10.0\ref\ExDeFixacao.dll

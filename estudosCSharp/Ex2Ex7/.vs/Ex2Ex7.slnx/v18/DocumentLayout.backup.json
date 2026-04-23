@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetosCSharp\\Ex2Ex7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8611B81B-8845-4D7D-AC58-47173908F4CC}|Ex2Ex7\\Ex2Ex7.csproj|c:\\temp\\projetoscsharp\\ex2ex7\\ex2ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8611B81B-8845-4D7D-AC58-47173908F4CC}|Ex2Ex7\\Ex2Ex7.csproj|solutionrelative:ex2ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetosCSharp\\Ex2Ex7\\Ex2Ex7\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2Ex7\\Program.cs",
+              "ToolTip": "C:\\temp\\projetosCSharp\\Ex2Ex7\\Ex2Ex7\\Program.cs",
+              "RelativeToolTip": "Ex2Ex7\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:49:00.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

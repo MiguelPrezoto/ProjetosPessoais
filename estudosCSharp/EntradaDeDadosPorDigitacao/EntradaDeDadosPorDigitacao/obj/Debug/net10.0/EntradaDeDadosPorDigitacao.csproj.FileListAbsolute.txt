@@ -1,0 +1,14 @@
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\bin\Debug\net10.0\EntradaDeDadosPorDigitacao.exe
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\bin\Debug\net10.0\EntradaDeDadosPorDigitacao.deps.json
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\bin\Debug\net10.0\EntradaDeDadosPorDigitacao.runtimeconfig.json
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\bin\Debug\net10.0\EntradaDeDadosPorDigitacao.dll
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\bin\Debug\net10.0\EntradaDeDadosPorDigitacao.pdb
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\EntradaDeDadosPorDigitacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\EntradaDeDadosPorDigitacao.AssemblyInfoInputs.cache
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\EntradaDeDadosPorDigitacao.AssemblyInfo.cs
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\EntradaDeDadosPorDigitacao.csproj.CoreCompileInputs.cache
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\EntradaDeDadosPorDigitacao.dll
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\refint\EntradaDeDadosPorDigitacao.dll
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\EntradaDeDadosPorDigitacao.pdb
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\EntradaDeDadosPorDigitacao.genruntimeconfig.cache
+C:\temp\projetosCSharp\EntradaDeDadosPorDigitacao\EntradaDeDadosPorDigitacao\obj\Debug\net10.0\ref\EntradaDeDadosPorDigitacao.dll

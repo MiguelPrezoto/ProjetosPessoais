@@ -1,0 +1,14 @@
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\bin\Debug\net10.0\Ex3Ex3.exe
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\bin\Debug\net10.0\Ex3Ex3.deps.json
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\bin\Debug\net10.0\Ex3Ex3.runtimeconfig.json
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\bin\Debug\net10.0\Ex3Ex3.dll
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\bin\Debug\net10.0\Ex3Ex3.pdb
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\Ex3Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\Ex3Ex3.AssemblyInfoInputs.cache
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\Ex3Ex3.AssemblyInfo.cs
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\Ex3Ex3.csproj.CoreCompileInputs.cache
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\Ex3Ex3.dll
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\refint\Ex3Ex3.dll
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\Ex3Ex3.pdb
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\Ex3Ex3.genruntimeconfig.cache
+C:\temp\projetosCSharp\Ex3Ex3\Ex3Ex3\obj\Debug\net10.0\ref\Ex3Ex3.dll

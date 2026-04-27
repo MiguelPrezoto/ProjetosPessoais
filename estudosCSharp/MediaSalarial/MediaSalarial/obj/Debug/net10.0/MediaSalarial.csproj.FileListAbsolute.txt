@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\bin\Debug\net10.0\MediaSalarial.exe
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\bin\Debug\net10.0\MediaSalarial.deps.json
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\bin\Debug\net10.0\MediaSalarial.runtimeconfig.json
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\bin\Debug\net10.0\MediaSalarial.dll
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\bin\Debug\net10.0\MediaSalarial.pdb
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.sourcelink.json
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.dll
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\refint\MediaSalarial.dll
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.pdb
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\MediaSalarial.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\estudosCSharp\MediaSalarial\MediaSalarial\obj\Debug\net10.0\ref\MediaSalarial.dll

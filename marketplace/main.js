@@ -15,6 +15,8 @@ const iconCarrinho = document.getElementById('iconCarrinho');
 const carrinhoPopUp = document.getElementById('carrinhoPopUp');
 const fecharPopUpCarrinho = document.getElementById('fecharPopUpCarrinho');
 
+const API_URL = "http://localhost:3000/api";
+
 // nav direita
 btnDireita.forEach((btn, index) => {
   btn.addEventListener("click", () => {
@@ -65,3 +67,31 @@ fecharPopUpCarrinho.addEventListener('click', () => {
     loginPopup.style.display = 'none';
     carrinhoPopUp.style.display = 'none';
 });
+
+
+function formatarPreco(valor) {
+  return Number(valor).toFixed(2).replace(".", ",");
+}
+
+async function carregarProdutos() {
+  const container = document.querySelector(".linhaProdutosDinamica");
+  if (!container) return;
+
+  const response = await fetch(`${API_URL}/produtos`);
+  const produtos = await response.json();
+
+  container.innerHTML = "";
+
+  produtos.forEach((p) => {
+    const card = document.createElement("div");
+    card.className = "produto";
+    card.innerHTML = `
+      <img src="assets/produtos/placeholder.png" alt="${p.nome}">
+      <p class="titulo">${p.nome}</p>
+      <span class="preco">R$ ${formatarPreco(p.preco)}</span>
+    `;
+    container.appendChild(card);
+  });
+}
+
+window.addEventListener("DOMContentLoaded", carregarProdutos);

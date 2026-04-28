@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
@@ -8,18 +8,18 @@
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="assets/icones/iconeNavegadorFundoTransparente.png">
 
-    <title>MercadoOn: Tudo que VOCÊ precisa!</title>
+    <title>MercadoOn: Tudo que VOCÃŠ precisa!</title>
 
 </head>
 
 <body>
     <header>
         <div class="logo"><a href="index.html"><img src="assets/icones/iconeLogo2.png" class="icon" id="iconLogo"></a></div>
-        <input type="text" placeholder="Procure o necessário aqui..." id="barraPesquisa">
+        <input type="text" placeholder="Procure o necessÃ¡rio aqui..." id="barraPesquisa">
         <nav>
             <ul>
                 <li><a href="#"><img src="assets/icones/iconeCarrinho.svg" class="icon" id="iconCarrinho"></a></li>
-                <li><a href="#"><img src="assets/icones/iconeUsuario.svg" class="icon" id="iconUser"></a></li>
+                <li><a href="#"><img src="assets/icones/iconeUsuario.svg" class="icon" id="iconUser"></a><div id="nomeDoUsuario"></div></li>
             </ul>
         </nav>
     </header>
@@ -27,10 +27,10 @@
     <div id="loginPopUp" class="popup">
         <div class="conteudoPopUp">
             <span class="btnFecharPopUp" id="fecharPopUpLogin">&times;</span>
-            <h2>faça seu login</h2>
+            <h2>faÃ§a seu login</h2>
             <form>
-                <input type="text" placeholder="Digite seu nome de usuário" id="username" required>
-                <input type="password" placeholder="Digite sua senha" id="password" required>
+                <input type="text" placeholder="Digite seu email" id="emailUser" required>
+                <input type="password" placeholder="Digite sua senha" id="senha/user" required>
                 <button type="submit">Entrar</button>
             </form>
         </div>
@@ -42,8 +42,8 @@
             <h2>Carrinho de Compras</h2>
             <div class="centerCarrinho">
                <img src="assets/iconeCarrinho.svg" class="carrinhoTela" id="iconCarrinho">
-               <p>Ops... Parece que seu carrinho está vazio!</p>
-               <p>Tente adicionar algo que está em oferta!</p>
+               <p>Ops... Parece que seu carrinho estÃ¡ vazio!</p>
+               <p>Tente adicionar algo que estÃ¡ em oferta!</p>
             </div>
         </div>
     </div>
@@ -61,79 +61,7 @@
 
                 <button class="seta esquerda">&#10094;</button>
 
-                <div class="linhaProdutos" id="linhaProdutos">
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/iphone15.jpg">
-                        <p class="titulo">Apple iPhone 15 (128GB) - Preto </p>
-                        <span class="preco"> R$4.499 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/iphone16preto.jpg">
-                        <p class="titulo">Apple iPhone 16 (128GB) - Preto </p>
-                        <span class="preco"> R$4.999 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/XiaomiRedmiNote14Pro.jpg">
-                        <p class="titulo">Smartphone Xiaomi Redmi Note 14 Pro (256GB) - Verde Coral </p>
-                        <span class="precoCortado">R$2.700</span> <span class="preco"> R$2.379 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/s24Ultra.jpg">
-                        <p class="titulo">Smartphone Samsung Galaxy S24 Ultra (256GB) - Titânio Cinza </p>
-                        <span class="preco"> R$5.399 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/motoG56.jpg">
-                        <p class="titulo">Smartphone Motorola Moto g56 128GB - Verde </p>
-                        <span class="preco"> R$1.299 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/iphone17promax.jpg">
-                        <p class="titulo">Apple iPhone 17 Pro Max (256GB) - Laranja </p>
-                        <span class='precoCortado'>R$12.999</span><span class="preco"> R$10.499 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/iphone16rosa.jpg">
-                        <p class="titulo"> Apple iPhone 16 (256GB) - Rosa </p>
-                        <span class="precoCortado">R$5.310</span> <span class="preco">R$4.999</span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/iphone14proroxoprofundo.png">
-                        <p class="titulo">Apple iPhone 14 Pro (256GB) - Roxo-Profundo </p>
-                        <span class="preco"> R$3.820 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/s26.jpg">
-                        <p class="titulo"> Smartphone Samsung Galaxy S26 5G (512GB) - Dourado </p>
-                        <span class="preco"> R$7.499 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/pocof7pro.jpg">
-                        <p class="titulo"> Smartphone Xiaomi Poco F7 Pro (512GB) - Azul </p>
-                        <span class="preco"> R$4.599 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/s26ultra.jpg">
-                        <p class="titulo"> Smartphone Samsung Galaxy S26 Ultra 5G (1TB) - Preto </p>
-                        <span class="preco"> R$12.499 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/celulares/zflip7FE.jpg">
-                        <p class="titulo"> Smartphone Samsung Galaxy Z Flip7 FE (128GB) - Preto </p>
-                        <span class="preco"> R$3.499 </span>
-                    </div>
+                <div class="linhaProdutos linhaProdutosDinamica" id="linhaProdutosCelulares">
 
                 </div>
 
@@ -141,73 +69,13 @@
 
             </div>
 
-            <h3>Mais pesquisados em "Automóveis": </h3>
+            <h3>Mais pesquisados em "AutomÃ³veis": </h3>
 
             <div class="efeitoCarrossel">
 
                 <button class="seta esquerda">&#10094;</button>
 
-                <div class="linhaProdutos" id="linhaProdutos">
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/kiamotorsSportage.jpg">
-                        <p class="titulo">Kia Motors Sportage LX 2.0 16v/ 2.0 16V Flex Aut. 2020 </p>
-                        <span class="precoCortado">R$112.900</span><span class="preco">R$109.800</span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/hondaHRVEXL.jpg">
-                        <p class="titulo">Honda HR-V EXXL 1.5 Sensing 16V 5P Aut. 2025 </p>
-                        <span class="preco"> R$155.670 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/mercedesGLA200.jpg">
-                        <p class="titulo">Mercedes-Benz GLA 200 Adv. 1.6/1.6 TB 16V Flex Aut. 2017 </p>
-                        <span class="precoCortado">R$130.000</span><span class="preco"> R$120.000 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/renegade.jpg">
-                        <p class="titulo">Jeep Renegade Sport 2.0 4X4 TB Diesel Aut. 2016 </p>
-                        <span class="preco"> R$76.790 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/rangeroverVelar.jpg">
-                        <p class="titulo">Land Rover Range Rover Velar R--DYN. SE 2.0 4X4 TB Aut. 2020 </p>
-                        <span class="precoCortado">R$300.000</span><span class="preco"> R$290.000 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/hyundaiSantaFe.jpg">
-                        <p class="titulo">Hyundai Santa Fe GLS 3.5 V6 4X4 Tiptronic 2019 </p>
-                        <span class="preco"> R$134.960 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/chevroletCruze.jpg">
-                        <p class="titulo"> Chevrolet Cruze LT 1.4 16V Turbo Flex 4P Aut. 2019</p>
-                        <span class="preco"> R$84.000 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/volkswagenFusca.jpg">
-                        <p class="titulo"> Volkswagen Fusca 2.0 TSI 16V Aut. 2014</p>
-                        <span class="preco"> R$108.000 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/bmwX1.jpg">
-                        <p class="titulo"> BMW X1 Sdrive 20I 2.0/2.0 TB Acti.flex Aut. 2018 </p>
-                        <span class="preco"> R$132.890 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/carros/bmwX2.jpg">
-                        <p class="titulo"> BMW X2 Sdrive 20I 2.0 TB 16V 192cv AUT 2019 </p>
-                        <span class="precoCortado"> R$140.000 </span><span class="preco"> R$ 136.050</span>
-                    </div>
+                <div class="linhaProdutos" id="linhaProdutosAutomoveis">
 
                 </div>
 
@@ -221,61 +89,7 @@
 
                 <button class="seta esquerda">&#10094;</button>
 
-                <div class="linhaProdutos" id="linhaProdutos">
-
-                    <div class="produto">
-                        <img src="assets/produtos/geladeiras/brastempFrostFreeDuplex.jpg">
-                        <p class="titulo"> Geladeira Brastemp Frost Free Duplex </p>
-                        <span class="precoCortado">R$2.150</span><span class="preco"> R$1999 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/geladeiras/consulCycleDefrostDuplex.jpg">
-                        <p class="titulo"> Geladeira Consul Cycle Defrost Duplex </p>
-                        <span class="preco"> R$2.150 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/geladeiras/smartLGFrostFreeInverterInverse.jpg">
-                        <p class="titulo"> Geladeira Smart LG Frost Free Inverter Inverse</p>
-                        <span class="preco"> R$4.179 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img
-                            src="assets/produtos/geladeiras/electroluxSideBySideFrostFree435LEfficientAutoSenseInverter.jpg">
-                        <p class="titulo"> Geladeira Electrolux Side By Side Frost Free 435L Efficient AutoSense
-                            Inverter
-                        </p>
-                        <span class="preco"> R$5.999 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img
-                            src="assets/produtos/geladeiras/electroluxFrostFreeInverter322LEfficientAutoSenseInversePreta.jpg">
-                        <p class="titulo"> Geladeira Electrolux Frost Free Inverter 322L Efficient AutoSense Inverse
-                            Preta
-                        </p>
-                        <span class="preco"> R$3.879 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/geladeiras/panasonicFrostFree387L.jpg">
-                        <p class="titulo">Geladeira Panasonic Frost Free 387L </p>
-                        <span class="preco"> R$2.790 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/geladeiras/brastempFrostFreeDuplex375LCorEspacoAdapt.jpg">
-                        <p class="titulo"> Geladeira Brastemp Frost Free Duplex 375L Cor Espaço Adapt </p>
-                        <span class="preco"> R$3.710 </span>
-                    </div>
-
-                    <div class="produto">
-                        <img src="assets/produtos/geladeiras/frigobarBrastemp76LRetro.jpg">
-                        <p class="titulo"> Frigobar Brastemp 76L Retrô </p>
-                        <span class="preco"> R$2.320 </span>
-                    </div>
+                <div class="linhaProdutos" id="linhaProdutosGeladeiras">
 
                 </div>
 
@@ -290,7 +104,7 @@
 
     <footer>
 
-        <div id="copyright">&copy; Miguel Prezoto e Silva - ETEC de Poá, Avenida Vital Brasil, 827, 08557-000, Poá - SP
+        <div id="copyright">&copy; Miguel Prezoto e Silva - ETEC de PoÃ¡, Avenida Vital Brasil, 827, 08557-000, PoÃ¡ - SP
             <nav>
                 <ul>
                     <li><a href="https://wa.me/5511940454457"><img src="assets/icones/iconeWPP.svg" class="icon"></a></li>
@@ -312,3 +126,4 @@
 </body>
 
 </html>
+

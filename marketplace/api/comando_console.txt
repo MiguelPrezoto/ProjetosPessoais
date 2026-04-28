@@ -1,0 +1,18 @@
+cd marketplace
+mkdir api
+cd api
+npm init -y
+npm i express better-sqlite3 cors
+
+
+TESTE PARA VER ITENS BANCO
+cd "c:\Users\Gustavo\Desktop\pasta\Repositórios\ProjetosPessoais\marketplace\api"
+
+@'
+const Database = require("better-sqlite3");
+const db = new Database("marketplace.db");
+console.log("Tabelas:");
+console.log(db.prepare("SELECT name FROM sqlite_master WHERE type='table'").all());
+console.log("Usuarios:");
+console.log(db.prepare("SELECT * FROM usuarios").all());
+'@ | node -
